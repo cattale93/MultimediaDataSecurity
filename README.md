@@ -1,7 +1,5 @@
 # MDS
 
-The project is developed in Matlab
-
 In this project there are 2 main subjects:
 
 1) Image watermarking performed by means of "Embedding_dwt_dct_8x8_arnold_UFF.m". It is an algorithm which takes an image as input and 
